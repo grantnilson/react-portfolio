@@ -88,7 +88,7 @@ const MySkillsPage = () => {
                 <LogoComponent theme = {'light'}/>
                 <SocialIcons theme = {'light'}/>
                 <ActivateButton />
-                <ParticleComponent theme = {'light'} />
+                
                 <Main>
                     <Title>
                         <Develope width= {40} height = {40} />
